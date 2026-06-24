@@ -4,4 +4,4 @@ pandas
 tensorflow
 joblib
 seaborn
-sklearn
+scikit-learn
